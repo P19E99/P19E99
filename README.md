@@ -20,8 +20,8 @@
 
 ## 🛠️ Tech Stack
 
-**Languages:** Python · C++
-**Fields:** Deep Learning · AI Security · Adversarial Examples
+* **Languages:** Python · C++
+* **Fields:** Deep Learning · AI Security · Adversarial Examples
 
 ---
 
