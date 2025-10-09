@@ -1,23 +1,40 @@
-# Hi there 👋 I'm P19E99
+## 👋 Hi there, I'm P19E99
+🎓 Undergraduate Student at **Zhengzhou University**, majoring in **Information Security**
 
-## 👨‍🎓 About Me
-Undergraduate student majoring in **Information Security** at ZZU, focusing on building a solid foundation in cybersecurity and programming.
+🏅 Former competitive programmer
 
+  🥉 **ICPC Bronze Medalist** | 🥇 **CCPC Invitational Gold Medalist**
+  
+🧠 Currently researching **Adversarial Examples** in **AI Security**
 
-## 🏆 Competitive Programming
-Former ICPC contestant with hands-on algorithm & problem-solving experience:
-- ICPC Regional Contest Bronze Medalist
-- CCPC Invitational Contest Gold Medalist
+🎮 Rhythm game enthusiast — **maimai** player and **Mygo!!!!! / Roselia** fan
 
+---
 
-## 🔬 Research Focus
-Currently diving into **AI Security**, with a specific interest in **Adversarial Examples** — exploring how to detect, defend against, and understand adversarial attacks on machine learning models.
+## 🚀 Research & Interests
 
+* 🔐 **AI Security** — adversarial attacks & defenses、 model robustness
+* 🧩 **Algorithmic Thinking** — applying competitive programming rigor to research problems
 
-## 🎮 Hobbies
-When I'm not coding or researching:
-- Enjoy playing *Maimai* 
-- Fan of Mygo!!!!! / Roselia
+---
 
+## 🛠️ Tech Stack
 
-Feel free to reach out if you're into AI Security, competitive programming, or share similar hobbies! 😊  
+**Languages:** Python · C++
+**Fields:** Deep Learning · AI Security · Adversarial Examples
+
+---
+
+## 🎵 Fun Side of Me
+
+* 🎼 Passionate about **Mygo!!!!!** and **Roselia**
+* 🎮 Frequent **maimai** arcade player (sometimes optimizing my loss function while playing 🎶)
+* ☕ Enjoy coding with J-pop music in the background
+
+---
+
+## 📫 Get in Touch
+
+📧 **Email:** [p19e99@gmail.com](p19e99@gmail.com)
+🌐 **GitHub:** [https://github.com/P19E99](https://github.com/P19E99)
+
