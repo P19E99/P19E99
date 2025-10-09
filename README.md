@@ -32,6 +32,7 @@
 * ☕ Enjoy coding with J-pop music in the background
 
 ---
+Feel free to reach out if you're into Al Security, competitive programming, or share similar hobbies! 🥰
 
 ## 📫 Get in Touch
 
