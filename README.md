@@ -7,7 +7,7 @@
   
 🧠 Currently researching **Adversarial Examples** in **AI Security**
 
-🎮 Rhythm game enthusiast — **maimai** player and **Mygo!!!!! / Roselia** fan
+🎮 Rhythm game enthusiast — **maimai** player and **MyGO!!!!! / Roselia** fan
 
 ---
 
