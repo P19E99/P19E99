@@ -8,21 +8,13 @@ Hi! I'm an undergraduate student majoring in **Information Security** at **Zheng
 
 ## 🔍 Research Interests
 
-My current research focuses on **unlearnable examples** — specifically, using them to **prevent generative models from learning personal data during fine-tuning**, as a way to protect privacy.
-
-I'm generally interested in topics like:
-
-* AI privacy & data protection
-* Unlearnable / adversarial examples
-* Security and robustness of generative models
-
-If you're working on something related, feel free to reach out and chat 🙂
+AI security & privacy — interested in protecting personal data from unauthorized use by generative models, with additional interest in **GUI agents** and their security, robustness, and real-world deployment.
 
 ---
 
 ## 🧠 Competitive Programming
 
-Before doing research, I spent quite some time on algorithm contests:
+Before doing research, I spent quite some time on competitive programming:
 
 * 🥉 **ICPC Asia Regional Contest** — Bronze Medal
 * 🥇 **CCPC National Invitational Contest** — Gold Medal
@@ -50,8 +42,7 @@ I really like **pet pigs** 🐖 — and honestly, most things related to pigs. I
 * 📧 Email: [p19e99@gmail.com](mailto:p19e99@gmail.com)
 * 🌐 Blog: [https://P19E99.github.io](https://P19E99.github.io)
 
-Feel free to contact me if you share similar interests, want advice on competitive programming, or just want to talk about AI (or pigs 🐷).
+Feel free to contact me if we share interests in **AI Safety & Privacy**, **GUI Agents**, or if you need advice on competitive programming—or just want to talk about pigs 🐷.
 
----
 
-⭐ Thanks for stopping by!
+
