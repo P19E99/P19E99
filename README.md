@@ -2,7 +2,7 @@
 
 🎓 Undergraduate @ Zhengzhou University | 🔐 Information Security | 🤖 AI Security Research
 
-Hi! I'm an undergraduate student majoring in **Information Security** at **Zhengzhou University**. I used to be a competitive programming contestant, and now I'm working on **AI security–related research**. I enjoy both thinking about theoretical problems and getting my hands dirty with experiments.
+Hi! I'm a undergraduate in an integrated BSc+MSc program, majoring in Information Security at Zhengzhou University. I used to be a competitive programming contestant, and now I'm working on **AI security–related research**. I enjoy both thinking about theoretical problems and getting my hands dirty with experiments.
 
 ---
 
